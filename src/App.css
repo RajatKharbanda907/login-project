@@ -1,0 +1,33 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+.outer{
+  height: 600px;
+  width:  1200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left:100px;
+  padding:0;
+  margin-right: 100px;
+  border: 2px solid cadetblue;
+  
+}
+.inner1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+  width: 1000px;
+  background-color:bisque;
+}
+.inner2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:600px;
+  width: 1000px;
+
+}
