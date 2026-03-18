@@ -15,6 +15,7 @@
   border: 2px solid cadetblue;
   
 }
+
 .inner1{
   display: flex;
   justify-content: center;
@@ -22,11 +23,25 @@
   height: 600px;
   width: 1000px;
   background-color:bisque;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.inner11{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+  width: 1000px;
+  background-color :green;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
 }
 .inner2{
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
   height:600px;
   width: 1000px;
 
